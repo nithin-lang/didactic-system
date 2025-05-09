@@ -18,3 +18,27 @@ exit
 hello
 ls
 exit
+sdsddsdsd
+exit
+asass
+help
+exit
+nit
+exit
+sddsd
+sdsd
+help
+ls
+exit
+ls
+help
+shellinfo
+exit
+ezit
+exit
+help
+shellinfo
+color a
+help
+du
+exit
