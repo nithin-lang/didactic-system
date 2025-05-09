@@ -1,0 +1,11 @@
+[package]
+name = "rust-cmd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rustyline = "13"
+sysinfo = "0.30"
+git2 = "0.18"
+rand = "0.8"
+rustc_version_runtime = "0.3"
